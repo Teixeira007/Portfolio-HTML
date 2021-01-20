@@ -5,5 +5,5 @@ Portfólio de desenvolvedor web
 
 :package: nova funcionalidade
 :up: atualização
-:beatle: correção de bug
+:bug: correção de bug
 :checkered: release
